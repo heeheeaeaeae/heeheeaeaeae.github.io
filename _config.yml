@@ -25,6 +25,9 @@ description: >- # SEO Description
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://heeheeaeaeae.github.io"
 
+# The base URL of your site
+baseurl: ""
+
 github:
   username: heeheeaeaeae
 
@@ -147,9 +150,6 @@ pwa:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
-
-# The base URL of your site
-baseurl: "/heeheeaeaeae.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
