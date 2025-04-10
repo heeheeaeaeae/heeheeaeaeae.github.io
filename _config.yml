@@ -237,9 +237,11 @@ footer:
     #   icon: fas fa-rss
     #   url: '/feed.xml'
 
-#plugins:
-#  - jekyll-feed
-#
-## Disable RSS feed
-#feed:
-#  enable: false
+plugins:
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-sitemap
+
+# RSS feed is completely disabled
+feed:
+  disable: true
