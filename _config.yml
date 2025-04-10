@@ -2,6 +2,7 @@
 
 # Import the theme
 theme: jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy@v6.4.2
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -19,7 +20,7 @@ title: heeeaee # 브라우저 탭에 표시될 제목
 tagline: ~/ᐠ_ _ᐟ\ɴʏᴀ~~~/ # 홈페이지 메인 타이틀 아래에 나타나는 소개 글
 
 description: >- # SEO Description
-  ㅋㅋㅋㅋ
+  heeheeaeaeae
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -241,6 +242,7 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # RSS feed is completely disabled
 feed:
