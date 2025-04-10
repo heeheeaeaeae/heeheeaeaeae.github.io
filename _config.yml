@@ -26,19 +26,19 @@ description: >- # SEO Description
 url: "https://heeheeaeaeae.github.io"
 
 github:
-  username: heeheeaeaeae # change to your GitHub username
+  username: heeheeaeaeae
 
-# twitter:
-#   username: # change to your Twitter username
+twitter:
+  username: # leave empty to disable
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: heeeaee
-  email: # 이메일 항목을 비워두면 이메일 아이콘이 표시되지 않습니다
+  email: heeheeaeaeae@gamil.com
   links:
     # 첫 번째 링크가 copyright owner link로 사용됩니다
-    - https://github.com/heeheeaeaeae     # GitHub 링크만 남기고 나머지는 주석 처리
+    - https://github.com/heeheeaeaeae
     #- https://twitter.com/yourid          # Twitter 링크 (필요없으면 주석처리)
     # - https://www.facebook.com/yourid   # Facebook 링크 (필요없으면 주석처리)
     # - https://www.linkedin.com/in/yourid # LinkedIn 링크 (필요없으면 주석처리)
@@ -224,10 +224,7 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-# 하단 아이콘 숨김/표시 설정
-theme_mode: light   # [light|dark]
-avatar: /assets/img/avatar.png
-toc: true
+
 
 # 하단 링크 아이콘 설정
 footer:
@@ -239,3 +236,10 @@ footer:
     # - label: RSS
     #   icon: fas fa-rss
     #   url: '/feed.xml'
+
+#plugins:
+#  - jekyll-feed
+#
+## Disable RSS feed
+#feed:
+#  enable: false
