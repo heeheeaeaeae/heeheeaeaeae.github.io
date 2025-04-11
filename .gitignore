@@ -1,8 +1,8 @@
 # Bundler cache
 .bundle
 vendor
-Gemfile.lock
-
+#Gemfile.lock
+g
 # Jekyll cache
 .jekyll-cache
 _site
