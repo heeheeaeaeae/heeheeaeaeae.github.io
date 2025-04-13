@@ -16,7 +16,9 @@ pin: true
 </div>
 
 ### 🚀준비
-1. 로컬에서 돌리기위해 올라마( https://ollama.com/ ) 를 다운받는다.
+
+
+1. 로컬에서 돌리기위해 [ollama](https://ollama.com/) 를 다운받는다.
 2. 올라마 사이트에서 원하는 모델을 고른후 터미널에서 ollama pull 원하는모델 을 해서 다운받는다.
     ex) ollama pull deepseek-r1:70b
 3. ollama list 했을때 나오면 성공    
@@ -36,7 +38,7 @@ pin: true
 
 
 4.python 코드를 작성해서 모델들 연결해서 대화시켜보기 
-> https://github.com/heeheeaeaeae/llm-debate-lab/blob/main/ai_battle.py
+>[https://github.com/heeheeaeaeae/llm-debate-lab/blob/main/ai_battle.py](https://github.com/heeheeaeaeae/llm-debate-lab/blob/main/ai_battle.py) 
 
 <pre style="max-height:300px; overflow:auto; padding:1em; border-radius:10px; background:#1e1e1e; color:#c0ffee;">
 
